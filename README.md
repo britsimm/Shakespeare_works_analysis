@@ -3,7 +3,7 @@
 Este repositorio contiene un script para realizar un análisis simple sobre los trabajos del escritor **William Shakespeare**. 
 Se utilizarón librerias conocidas en el entorno de la ciencia de datos, como ser *Pandas* y *Seaborn*. En el archivo **requirements.txt** puede encontrar las librerias necesarias.
 
-Se utilizó la siguiente base de datos abierta: Base de datos con las obras de William Shakespeare](https://relational.fit.cvut.cz/dataset/Shakespeare) .
+Se utilizó la siguiente base de datos abierta: [Base de datos con las obras de William Shakespeare](https://relational.fit.cvut.cz/dataset/Shakespeare) .
  
 
 El trabajo se separa en dos partes, en la primera de estas se realizó un análisis exploratorio sobre los datos, parte el foco estuvo en las obras del escritor, en particular es de interes los años de publicación así como el género.
