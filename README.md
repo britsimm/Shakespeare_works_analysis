@@ -1,7 +1,7 @@
 ## Analísis sobre las obras de William Shakespeare
 
 Este repositorio contiene un script para realizar un análisis simple sobre los trabajos del escritor **William Shakespeare**. 
-Se utilizarón librerias conocidas en el entorno de la ciencia de datos, como ser *Pandas* y *Seaborn*. En el archivo **requirements.txt** puede encontrar las librerias necesarias.
+Se utilizarón librerias conocidas en el entorno de la ciencia de datos, como ser *Pandas* y *Seaborn*. En el archivo [requirements.txt](https://github.com/britsimm/Shakespeare_works_analysis/blob/main/requirements.txt) puede encontrar las librerias necesarias.
 
 Se utilizó la siguiente base de datos abierta: [Base de datos con las obras de William Shakespeare](https://relational.fit.cvut.cz/dataset/Shakespeare) .
  
